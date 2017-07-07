@@ -1,8 +1,8 @@
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d01.html: 0.11726211547851562
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d02.html: 0.1254466654459635
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d03.html: 0.1254466654459635
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d04.html: 0.2236612650553385
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d05.html: 0.11726211547851562
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d06.html: 0.14181576538085933
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d07.html: 0.14181576538085933
-http://people.f4.htw-berlin.de/~zhangg/pages/teaching/pages/d08.html: 0.007289642333984376
+d01: 0.11719974670057247
+d02: 0.1275582229896527
+d03: 0.12952668511800217
+d04: 0.2267598335420497
+d05: 0.11934493606372919
+d06: 0.1524201564999893
+d07: 0.14182149117393042
+d08: 0.007092237844053051
